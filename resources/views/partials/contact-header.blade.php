@@ -8,7 +8,7 @@
             <div class="col-auto">
                 <div class="align-container">
                     <div class="align-container__item">
-                        <h1 class="promo-primary__title"><span>OSMI</span><br/><span>In a brief</span></h1>
+                        <h1 class="promo-primary__title"><span>Contact Us</span></h1>
                     </div>
                 </div>
             </div>
