@@ -16,7 +16,7 @@
                 <div class="col-lg-8 offset-lg-4 col-xl-7 offset-xl-5">
                     <h3 class="text-section__title">We delivering Optimally.</h3>
                     <p>The cornerstone of FTA media, we have established strong relationships in this area having transacted more than $100 million USD in sales revenues.
-                    </p><a class="button button--blue" href="volunteer.html">Our volunteers</a>
+                    </p>
                 </div>
             </div>
         </div>
