@@ -8,6 +8,7 @@ class NewsController extends Controller
 {
     //
     public function indexAction(){
-        return \view('news');
+        $news   = \App\Blog::paginate(4);
+        return \view('news')->with('news', $news);
     }
 }

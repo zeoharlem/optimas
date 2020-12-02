@@ -110,3 +110,7 @@ section.section {
     line-height: 1;
     font-weight: 400;
 }
+
+.blog-item--style-1 {
+    padding: 0px !important;
+}
