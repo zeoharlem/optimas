@@ -7,8 +7,8 @@
         <div class="row">
             <div class="col-auto">
                 <div class="align-container">
-                    <div class="align-container__item"><span class="promo-primary__pre-title">Helpo</span>
-                        <h1 class="promo-primary__title"><span>Partners</span> <span>& Donors</span></h1>
+                    <div class="align-container__item">
+                        <h1 class="promo-primary__title"><span>Media</span> <span>& Partners</span></h1>
                     </div>
                 </div>
             </div>
@@ -16,3 +16,5 @@
     </div>
 </section>
 <!-- donors inner start-->
+
+@include('partials.media-header')
