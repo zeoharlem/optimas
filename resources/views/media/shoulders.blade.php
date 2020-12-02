@@ -25,7 +25,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 offset-lg-4 col-xl-7 offset-xl-5">
-                    <h3 class="text-section__title">We delivering Optimally.</h3>
+                    <h3 class="text-section__title"></h3>
                     <p>We have worked with some of the biggest rightsholders in the world, with a particular emphasis on FTA rights management
                     </p>
                 </div>

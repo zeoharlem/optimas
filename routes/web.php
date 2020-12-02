@@ -18,7 +18,7 @@ Route::get('/about-us', 'AboutusController@indexAction');
 Route::get('/commercial', 'CommercialController@indexAction');
 Route::get('/contact', 'ContactusController@indexAction');
 // Route::get('distribution', 'DistributionController');
-// Route::get('events', 'EventsController');
+Route::get('/events', 'EventsController@indexAction');
 Route::get('/media', 'MediaController@indexAction');
 Route::get('/media/shoulders', 'MediaController@shouldersAction');
 Route::get('/media/afrosport', 'MediaController@afrosportAction');

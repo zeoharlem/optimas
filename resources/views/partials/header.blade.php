@@ -38,7 +38,9 @@
 
 									<li class="main-menu__item"><a class="main-menu__link" href="{{ url('/news') }}"><span>News</span></a></li>
 									
-									<li class="main-menu__item"><a class="main-menu__link" href="contacts.html"><span>Contacts</span></a></li>
+									<li class="main-menu__item"><a class="main-menu__link" href="{{ url('/events') }}"><span>Events</span></a></li>
+									
+									<li class="main-menu__item"><a class="main-menu__link" href="{{ url('/contact') }}"><span>Contacts</span></a></li>
 									
 								</ul>
 							</nav>
