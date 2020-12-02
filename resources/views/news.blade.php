@@ -2,6 +2,6 @@
 
 @section('content')
 
-    @include('partials.partners')
+    
     
 @endsection

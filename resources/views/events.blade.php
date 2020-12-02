@@ -4,6 +4,4 @@
 
     @include('partials.events-header')
     
-    @include('partials.partners')
-    
 @endsection
