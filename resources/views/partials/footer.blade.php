@@ -39,7 +39,7 @@
             </div>
             <div class="col-sm-6 col-lg-3">
                 <h4 class="footer__title">Members</h4>
-                <p>Help Us Change the Lives of Children in World</p><a class="button footer__button button--filled" href="#">Members</a>
+                <p>Join to enjoy exlussive opportunities</p><a class="button footer__button button--filled" href="#">Members</a>
             </div>
         </div>
         <div class="row align-items-baseline">
