@@ -50,7 +50,7 @@
 							
 							<div class="dropdown-trigger d-block d-sm-none">
 								<div class="dropdown-trigger__item"></div>
-							</div><a class="button button--squared" href="#"><span>Members</span></a>
+							</div><a class="button button--squared" href="{{ url('/login') }}"><span>Members</span></a>
 						</div>
 					</div>
 				</div>

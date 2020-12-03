@@ -26,3 +26,8 @@ Route::get('/media/broadcasters', 'MediaController@broadcastersAction');
 // Route::get('members', 'MembersController');
 Route::get('/news', 'NewsController@indexAction');
 Route::get('/production', 'ProductionController@indexAction');
+
+//Authentication Routes
+Auth::routes();
+
+//Route::get('/home', 'HomeController@index')->name('home');

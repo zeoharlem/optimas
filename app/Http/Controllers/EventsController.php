@@ -8,6 +8,7 @@ class EventsController extends Controller
 {
     //
     public function indexAction(){
-        return \view('events');
+        $events = \App\Events::paginate(4);
+        return \view('events')->with("events", $events);
     }
 }
