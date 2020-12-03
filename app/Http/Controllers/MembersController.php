@@ -8,6 +8,6 @@ class MembersController extends Controller
 {
     //
     public function indexAction(){
-        return \view('members');
+        return \view('members.index');
     }
 }
